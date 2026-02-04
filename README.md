@@ -1,6 +1,8 @@
 # Lumecode - Code Explainer
 
-Lumecode is an AI-powered web application that automatically detects programming languages and provides clear, human-readable explanations of code. Perfect for learners, educators, and developers who want to understand code snippets quickly and effectively.
+Live Demo: https://lumecode.vercel.app/
+
+Lumecode is a web application that detects programming languages and provides AI-generated explanations of code snippets.
 
 ## Features
 
@@ -50,11 +52,10 @@ Lumecode is an AI-powered web application that automatically detects programming
 
 3. **Set up environment variables**
 
-   Create a `.env.local` file in the root directory:
-   ```env
-   VITE_SUPABASE_URL=your-supabase-url
-   VITE_SUPABASE_PUBLISHABLE_KEY=your-supabase-anon-key
-   ```
+   Create a `.env.local` file in the root directory with the following variables:
+
+   - VITE_SUPABASE_URL
+   - VITE_SUPABASE_PUBLISHABLE_KEY
 
 4. **Start the development server**
    ```bash
@@ -120,6 +121,8 @@ npm run test:watch
 
 ## Deployment
 
+The app is deployed on Vercel. For deployment, run 'npm run build' and deploy the dist folder.
+
 The application can be deployed to any static hosting service like Vercel, Netlify, or GitHub Pages.
 
 For Supabase functions:
@@ -145,7 +148,6 @@ Building Lumecode provided valuable experience in modern web development and AI 
 
 ### AI & Machine Learning
 - **AI API Integration**: Learned to integrate with AI services through REST APIs
-- **Prompt Engineering**: Crafted effective system prompts for consistent AI responses
 - **Streaming Data Processing**: Handled streaming JSON responses and parsed them in real-time
 
 ### Development Tools & Practices
@@ -165,4 +167,3 @@ Building Lumecode provided valuable experience in modern web development and AI 
 - **Static Site Deployment**: Prepared the app for deployment on static hosting platforms
 - **Version Control**: Followed Git best practices for collaborative development
 
-This project demonstrated the power of combining modern frontend frameworks with AI services to create educational tools that can help developers learn and understand code more effectively.
