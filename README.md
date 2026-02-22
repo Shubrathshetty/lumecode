@@ -1,4 +1,4 @@
-# Lumecode - Code Explainer
+# Lumecode - Code Explainer WebApp
 
 Live Demo: https://lumecode.vercel.app/
 
