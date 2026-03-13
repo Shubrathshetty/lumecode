@@ -27,7 +27,6 @@ Lumecode is a web application that detects programming languages and provides AI
 
 ### Backend
 - **Supabase Edge Functions** - Serverless functions running on Deno
-- **AI Integration** - Powered by Google's Gemini AI through Lovable's AI Gateway
 
 ### Development Tools
 - **ESLint** - Code linting and formatting
