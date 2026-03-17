@@ -2,7 +2,7 @@
 
 Live Demo: https://lumecode.vercel.app/
 
-Lumecode is a web application that detects programming languages and provides AI-generated explanations of code snippets.
+Lumecode is a web application that automatically detects programming languages and provides explanations of code snippets.
 
 ## Features
 
