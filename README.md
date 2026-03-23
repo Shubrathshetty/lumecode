@@ -1,6 +1,6 @@
-# Lumecode - Code Explainer Web App
+# Lumecode - Code Explainer Web Application
 
-Live Demo: https://lumecode.vercel.app/
+Live Demonstration: https://lumecode.vercel.app/
 
 Lumecode is a web application that automatically detects programming languages and provides explanations of code snippets.
 
