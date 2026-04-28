@@ -97,14 +97,6 @@ lumecode/
 └── package.json           # Dependencies and scripts
 ```
 
-## API
-
-The application uses a Supabase Edge Function for AI processing:
-
-- **Endpoint**: `/functions/v1/explain-code`
-- **Method**: POST
-- **Body**: `{ "code": "your code here" }`
-- **Response**: Streaming text/event-stream with explanation
 
 ## Testing
 
